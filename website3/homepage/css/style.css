@@ -1,0 +1,65 @@
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: white;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: gold;
+}
+
+.navbar {
+  background: #805C15;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #805C15;
+  border-color: white;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: green;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+.description {
+  background-image: url("/pattern.png");
+  background-repeat: repeat-x;
+}
+
+/* Additional stuff for index.html page */
+.jumbotron {
+  background-image: url("..//img/c.JPG");
+  background-size: cover;
+  color: white;
+}
+
+
+.fa-indent{
+  color: white;
+  font-size: 30px;
+}
