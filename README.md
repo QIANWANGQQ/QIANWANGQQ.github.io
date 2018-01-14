@@ -1,0 +1,2 @@
+# QIANWANGQQ.github.io
+boring
